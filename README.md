@@ -2,6 +2,8 @@
 
 Welcome to my repository for the [FreeCodeCamp](https://www.freecodecamp.org/) **Data Analysis with Python Certification**! 🎓 This project showcases my journey and solutions through all the lessons, projects, and challenges covered in the course. It serves as both a portfolio of completed work and a learning resource for anyone interested in data analysis using Python, NumPy, pandas, and more.
 
+Certificate: https://www.freecodecamp.org/certification/ek04/data-analysis-with-python-v7
+
 ## 🚀 Certification Overview
 
 The **Data Analysis with Python** course is designed to teach core data manipulation and analysis skills using Python. The curriculum includes:
