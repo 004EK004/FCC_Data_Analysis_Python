@@ -14,21 +14,9 @@ The **Data Analysis with Python** course is designed to teach core data manipula
 - Data cleaning, transformation, and visualization
 - Real-world projects and portfolio-ready case studies
 
-📚 **Total estimated time**: ~300 hours
+📚 **Total estimated time**: ~95 hours
 
 ---
-
-## 🧠 Modules Covered
-
-| Module # | Title | Description |
-|----------|-------|-------------|
-| 1️⃣ | **Jupyter Notebooks** | Learn to use Jupyter Notebooks for interactive computing and data visualization. |
-| 2️⃣ | **NumPy** | Explore arrays, mathematical operations, and performance with NumPy. |
-| 3️⃣ | **Pandas Basics** | Introduction to Series and DataFrames, reading data, and data selection. |
-| 4️⃣ | **Data Manipulation with Pandas** | Perform sorting, filtering, grouping, and aggregations. |
-| 5️⃣ | **Data Cleaning** | Handle missing values, duplicates, and fix data types. |
-| 6️⃣ | **Data Visualization** | Create graphs using Matplotlib and Seaborn. |
-| 7️⃣ | **Real Projects** | Five end-to-end projects that demonstrate applied skills. |
 
 ---
 
@@ -46,22 +34,3 @@ These projects are required to earn the certification and are completed using re
 
 > 🔗 **View Certification**: [Link to FreeCodeCamp Profile](https://www.freecodecamp.org/your-username)
 
----
-
-## 📂 Repository Structure
-
-```bash
-📁 data-analysis-with-python
-├── 📁 notebooks/
-│   ├── 01_jupyter_intro.ipynb
-│   ├── 02_numpy_basics.ipynb
-│   ├── 03_pandas_intro.ipynb
-│   └── ...
-├── 📁 projects/
-│   ├── mean-variance-standard-deviation/
-│   ├── demographic-data-analyzer/
-│   ├── medical-data-visualizer/
-│   ├── page-view-time-series/
-│   └── sea-level-predictor/
-├── requirements.txt
-└── README.md
